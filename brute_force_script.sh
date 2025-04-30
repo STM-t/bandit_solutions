@@ -15,3 +15,12 @@ echo "---------------"
 echo ""
 
 done
+
+
+# mktemp -d 
+# cd /tmp/<temp_dir>
+# touch logs txt
+# chmod 700 brute_force_script.sh
+# ./brute_force_script.sh > logs txt
+# vim logs.txt 
+# /Correct!
