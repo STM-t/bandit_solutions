@@ -1,6 +1,6 @@
 # Bandit OverTheWire Solutions
 
-Этот репозиторий содержит мои решения уровней игры [Bandit](https://overthewire.org/wargames/bandit/) с сайта OverTheWire.
+Этот репозиторий содержит мои bash скрипты для решения уровней игры [Bandit](https://overthewire.org/wargames/bandit/) с сайта OverTheWire.
 
 ## Описание
 
