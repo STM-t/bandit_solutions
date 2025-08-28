@@ -15,9 +15,8 @@ echo "---------------"
 echo ""
 
 done
-    
 
-   
+
 # mktemp -d 
 # cd /tmp/<temp_dir>
 # touch logs txt
