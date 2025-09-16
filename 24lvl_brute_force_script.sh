@@ -24,7 +24,7 @@ done
 # ./brute_force_script.sh > logs txt
 # vim logs.txt 
 # /Correct!
-
+ 
   
     
  
